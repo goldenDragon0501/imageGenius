@@ -3,7 +3,6 @@
 <div align="center">
   <br />
     <a href="https://bit.ly/3LboNOQ" target="_blank">
-      <img src="https://i.postimg.cc/QMzcjy35/ai-img-generator.png" alt="Project Banner">
     </a>
   <br />
 
@@ -77,7 +76,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Abdullah0Dev/imageGenius.git
+git clone https://github.com/goldenDragon/imageGenius.git
 cd imageGenius
 ```
 
